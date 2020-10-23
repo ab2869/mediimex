@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title><strong>features</strong></title>
+  </head>
+  <body>
+    <h1>fast</h1>
+    <h2>accurate</h2>
+    <h3>email id</h3>
+    <h4>fill the form for further details</h4>
+
+    <form>
+<label><strong>yourname:</strong></label>
+<input type="text" />
+
+    </form>
+  </body>
+</html>
